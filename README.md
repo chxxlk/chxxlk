@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - public class selfIntroduction {
--  String name = "Chris;
+-  String name = "Chris";
 -  int age = 20;
 -  String hobby = "Programing, coding, play basket";
 -  String otherDetail = "I’m @chxxlk, you can call me chris. I'm from Indonesia and I'm learning about programming even though I'm not proficient in it yet.
@@ -25,9 +25,20 @@ You can click the Preview link to take a look at your changes.
   
 - }
 
-- output :
-- Name : Chris
-- Age : 20
-- Hobby : Programing, coding, play basket
-- Other Detail : I’m @chxxlk, you can call me chris. I'm from Indonesia and I'm learning about programming even though I'm not proficient in it yet. interested in coding Python, C, C++, and Java. I'm in college now
-- Email : chxxlk@gmail.com
+<h3> output : </h3>
+<table>
+  <tr>
+    <th> Nama </th>
+    <th> Age </th>
+    <th> Hobby </th>
+    <th> Other Detail </th>
+    <th> Email </th>
+  </tr>
+  <tr>
+    <td> Chris </td>
+    <td> 20 </td>
+    <td> Programing, coding, play basket </td>
+    <td> I’m @chxxlk, you can call me chris. I'm from Indonesia and I'm learning about programming even though I'm not proficient in it yet. interested in coding Python, C, C++, and Java. I'm in college now </td>
+    <td> chcclk@gmail.com </td>
+  </tr>
+</table>
