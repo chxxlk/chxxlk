@@ -14,7 +14,7 @@
 -  int age = 20;
 -  String hobby = "Programing, coding, play basket";
 -  String otherDetail = "I’m @chxxlk, you can call me chris. I'm from Indonesia and I'm learning about programming even though I'm not proficient in it yet.
-                        interested in coding Python, C, C++, and Java and currently, I am very interested in web design and web development.. I'm in college now";
+                        interested in coding Python, C, C++,Java and currently, I am very interested in web design and web development. And currently, I am very interested in web design and web development.. I'm in college now";
 -  String email = "chxxlk@gmail.com";
 -  System.out.println("Self Introduction : );
 -  System.out.println("Name : " + name);
