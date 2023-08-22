@@ -8,7 +8,7 @@
 // chxxlk/chxxlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 // You can click the Preview link to take a look at your changes.
 // - -->
-<h3> output : </h3>
+<h3> A little bit of information about me :) </h3>
 <table>
   <tr>
     <th> Nama </th>
